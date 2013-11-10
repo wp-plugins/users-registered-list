@@ -27,6 +27,6 @@ You can translate the plugin into your language. Russian lang is included.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0 (Nov 11th, 2013) =
 
 * Initial release
